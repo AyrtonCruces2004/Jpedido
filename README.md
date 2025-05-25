@@ -1,0 +1,1 @@
+Permite administrar mesas, pedidos, productos, usuarios y sucursales. Incluye funcionalidades como generación de boletas en PDF, manejo de tiempos de despacho, reportes de ventas y perfiles de usuario. Utiliza Java Swing para la interfaz gráfica, conexión a bases de datos con JDBC, y bibliotecas externas como iText y JSON.simple.
